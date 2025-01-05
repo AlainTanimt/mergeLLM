@@ -26,4 +26,4 @@ L’objectif principal est de proposer une solution pratique pour expérimenter 
 
 ## Références
 [Article de Towards Data Science](https://towardsdatascience.com/merge-large-language-models-with-mergekit-2118fb392b54)
-[Modèle de LLM issue de la fusio sur Hugging Face](https://huggingface.co/AlainTa/Marcoro14-7B-slerp)
+[Modèle de LLM issue de la fusion sur Hugging Face](https://huggingface.co/AlainTa/Marcoro14-7B-slerp)
